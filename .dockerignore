@@ -1,0 +1,8 @@
+.git
+.github
+vendor
+var
+node_modules
+tests
+.env.local
+*.md
